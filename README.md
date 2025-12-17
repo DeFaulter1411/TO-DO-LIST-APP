@@ -34,30 +34,7 @@ Programming Language	Python 3.10
 Database	SQLite
 GUI Framework	Tkinter
 OS Support	macOS, Windows, Linux
-⚙️ Setup & Installation
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
 
-2️⃣ Create & activate virtual environment (Recommended)
-macOS / Linux
-python3 -m venv kivyenv
-source kivyenv/bin/activate
-
-Windows
-python -m venv kivyenv
-kivyenv\Scripts\activate
-
-3️⃣ Run the application
-
-First, ensure the database is created:
-
-python database.py
-
-
-Then run the UI:
-
-python ui.py
 
 💾 Database Details
 
@@ -119,7 +96,7 @@ Mobile version using Kivy
 
 Sahil Chauhan
 Python Developer | Learning Data Analytics
-GitHub: your-profile-link
+GitHub: https://github.com/DeFaulter1411
 
 ⭐ Like this project?
 
